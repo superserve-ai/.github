@@ -2,12 +2,12 @@
 
 ### About Superserve
 
-Superserve gives you Persistent sandboxes that hibernate when idle and wake in milliseconds. It's built on Firecracker microVMs in the open.
+Superserve provides sandbox infrastructure to run AI Agents in the cloud. Powered by Firecracker MicroVMs.
 <br><br>
 
 ### Getting Started
 
-Visit our website to get startd [superserve.ai](https://www.superserve.ai/)
+Visit our website to get started [superserve.ai](https://www.superserve.ai/)
 <br><br>
 
 ### Repositories
