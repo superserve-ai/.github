@@ -12,7 +12,7 @@ Visit our website to get started [superserve.ai](https://www.superserve.ai/)
 
 ### Repositories
 
-- [Superserve](https://github.com/superserve-ai/superserve) - CLI, Python/TypeScript SDK, Sandbox Dashboard and Docs
+- [Superserve](https://github.com/superserve-ai/superserve) - CLI, Python/TypeScript SDK, Web Console, and Documentation
 - [Sandbox](https://github.com/superserve-ai/sandbox) - Sandbox infrasutucture
 <br><br>
 
